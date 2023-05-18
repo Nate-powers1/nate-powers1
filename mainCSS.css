@@ -4,3 +4,20 @@
 	background-position: center;
 	background-foreground: green;
 }
+
+.home {
+	color: orange;
+}
+
+.profilio {
+	color: green;
+	
+}
+
+navbar:a {
+	opacity: 50%
+        hover: 10px
+        background-color: green;
+	font-color: orange;
+	opacity: 50%
+	list-style-type: 
